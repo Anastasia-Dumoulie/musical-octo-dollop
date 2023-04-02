@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Parisienne&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body{
+font-family: 'Waterfall', cursive;
+font-size: 20px;
+background-color: rgb(213, 189, 175);
+}
+h1,h2,h3{
+	font-family: 'Pacifico', cursive;
+	font-weight: bold;
+	font-size: 50px;
+}

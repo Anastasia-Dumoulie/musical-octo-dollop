@@ -1,0 +1,9 @@
+.btn-maroon {
+	background:rgb(106, 4, 15);
+	padding:10px 10px;
+	color:antiquewhite;
+	border-radius:4px;
+	font-weight: lighter;
+    font-family: 'Waterfall', cursive;
+    resize: both;
+}
